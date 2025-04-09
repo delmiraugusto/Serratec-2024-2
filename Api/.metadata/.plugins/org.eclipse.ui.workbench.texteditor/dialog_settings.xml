@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="searchhistory">
+		<item value="trabalho"/>
+		<item value="rua"/>
+		<item value="tipo"/>
+		<item value="number"/>
+		<item value="Tax"/>
+		<item value="GrossSalary"/>
+		<item value="manutencao"/>
+		<item value="Manutencao"/>
+		<item value="p"/>
+		<item value="proprietario"/>
+		<item value="Proprietario"/>
+		<item value="save"/>
+		<item value="Veiculo"/>
+		<item value="class"/>
+	</list>
+	<list key="replacehistory">
+		<item value="logradouro"/>
+		<item value="status"/>
+		<item value="accountNumber"/>
+		<item value="tax"/>
+		<item value="grossSalary"/>
+		<item value="servico"/>
+		<item value="Servico"/>
+		<item value="manutencao"/>
+		<item value="Manutencao"/>
+		<item value="oi"/>
+		<item value="Proprietario"/>
+		<item value="Class"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="&#x09;&#x09;Scanner sc = new Scanner(System.in);"/>
+		<list key="findhistory">
+			<item value="&#x09;&#x09;Scanner sc = new Scanner(System.in);"/>
+			<item value="package br.com.serratec.entity;"/>
+		</list>
+	</section>
+</section>
